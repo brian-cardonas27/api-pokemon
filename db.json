@@ -27,8 +27,6 @@
     { "id": 25, "name": "Pikachu" },
     { "id": 26, "name": "Raichu" },
     { "id": 27, "name": "Sandshrew" },
-    { "id": 28, "name": "Sandslash" },
-    { "id": 29, "name": "Nidoran♀" },
-    { "id": 30, "name": "Nidorina" }
+    { "id": 28, "name": "Sandslash" }
   ]
 }
